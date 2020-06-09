@@ -1,8 +1,7 @@
 # City_Divider
 
 ## Description and Results
-Cities have borders, but how can we identify the regions within those borders? In this project, I use the business centers within a city to sub-divide it. 
-
+Cities have borders, but how can we identify the regions within those borders? In this project, I sub-divide cities using the business clusters found within that city. 
 
 ![New Rochelle](/geovoronoi_new_ro_economic_zones_adjusted.png)
 
